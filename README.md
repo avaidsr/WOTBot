@@ -1,2 +1,2 @@
-# WOTBot
-WOT Bot repository for MSHacks 2.0 2018
+# WOTBot | Weed Ostracizing Bot
+Coded at MSHacks 2.0 2018
