@@ -12,4 +12,3 @@ Functions
 1. Autonomous Driving .
 2. Detect weed growth in field.
 3. Helps in keeping track of Plant growth.
-
